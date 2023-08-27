@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("初めてのコミット")
     }
+    
+    //眠いなあ。（github確認用）
 
 
 }
