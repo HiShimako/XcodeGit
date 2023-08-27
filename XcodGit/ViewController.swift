@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
     
     //眠いなあ。（github確認用）
-
+    //頑張れー
 
 }
 
